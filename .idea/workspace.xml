@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="">
+    <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="1 Created class StudySubject.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,11 @@
     "git-widget-placeholder": "devLesson3"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="devLesson3" />
+    </force-push-targets>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,11 +57,21 @@
       <option name="presentableId" value="Default" />
       <updated>1713607150896</updated>
     </task>
+    <task id="LOCAL-00001" summary="1 Created class StudySubject.">
+      <option name="closed" value="true" />
+      <created>1714210491171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714210491171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Init project" />
     <MESSAGE value="1 Create class NoteBook" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Create class NoteBook" />
+    <MESSAGE value="1 Created class StudySubject." />
+    <option name="LAST_COMMIT_MESSAGE" value="1 Created class StudySubject." />
   </component>
 </project>

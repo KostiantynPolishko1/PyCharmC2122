@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="2 Created class Person and inherited class Teacher." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +29,11 @@
     "git-widget-placeholder": "devLesson4"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="devLesson4" />
+    </force-push-targets>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,6 +50,15 @@
       <option name="presentableId" value="Default" />
       <updated>1713607150896</updated>
     </task>
+    <task id="LOCAL-00001" summary="2 Created class Person and inherited class Teacher.">
+      <option name="closed" value="true" />
+      <created>1714217445870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714217445870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 Created class Person and inherited class Teacher." />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Created class Person and inherited class Teacher." />
   </component>
 </project>

@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="4 closure function">
-      <change afterPath="$PROJECT_DIR$/main7_2.py" afterDir="false" />
+    <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="6 SiteParser">
+      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson7_2_class_closure_method.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson7_closure_function.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson8_logging.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson9_site_parser.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="devLesson6" />
+        <entry key="$PROJECT_DIR$" value="devLesson7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,9 +65,11 @@
     "Python.main2.executor": "Run",
     "Python.main7.executor": "Run",
     "Python.main7_2.executor": "Run",
+    "Python.main8.executor": "Run",
+    "Python.main9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devLesson7",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "git-widget-placeholder": "devLesson8",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="Push.Settings">
@@ -122,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715423944695</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5 class closure method">
+      <option name="closed" value="true" />
+      <created>1715425223907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715425223907</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +157,8 @@
     <MESSAGE value="2 Created class Person and inherited class Teacher." />
     <MESSAGE value="3 Interinspection of class Teacher(Person)" />
     <MESSAGE value="4 closure function" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 closure function" />
+    <MESSAGE value="5 class closure method" />
+    <MESSAGE value="6 SiteParser" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 SiteParser" />
   </component>
 </project>

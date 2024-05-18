@@ -1,0 +1,6 @@
+INFO! 2024-05-11 14:43:21,815 | ERROR | can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "C:\Users\polishko_k\PycharmProjects\PyCharmC2122\main8.py", line 17, in <module>
+    print('5' + 5)
+          ~~~~^~~
+TypeError: can only concatenate str (not "int") to str

@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51f517ba-b439-43c2-83da-827c523f1053" name="Changes" comment="6 SiteParser">
-      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson7_2_class_closure_method.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson7_closure_function.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson8_logging.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PySenior_C2122_Lesson9_site_parser.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySenior_C2122_Lesson7_2_class_closure_method.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySenior_C2122_Lesson7_closure_function.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySenior_C2122_Lesson8_logging.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PySenior_C2122_Lesson9_site_parser.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="devLesson7" />
+        <entry key="$PROJECT_DIR$" value="devLesson8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,14 +60,16 @@
   "keyToString": {
     "Python.lesson6.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.main10.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.main7.executor": "Run",
     "Python.main7_2.executor": "Run",
     "Python.main8.executor": "Run",
     "Python.main9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devLesson8",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "devLesson10",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="Push.Settings">
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715425223907</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6 SiteParser">
+      <option name="closed" value="true" />
+      <created>1716029202479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716029202480</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
